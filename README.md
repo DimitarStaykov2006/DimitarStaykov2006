@@ -1,8 +1,8 @@
-# Hi, I'm Mitachko 👋
+# Hi, I'm Dimitar Staykov
 
 ### Electrical & Mechanical Engineering Student | Aspiring Robotics Engineer
 
-I'm an engineering student interested in robotics, automation, embedded systems, and intelligent machines. I enjoy combining engineering principles with programming to understand, design, and develop practical solutions.
+I'm an engineering student interested in robotics and intelligent machines. I enjoy combining engineering principles with programming to understand, design, and develop practical solutions.
 
 ## 🎓 Education
 
@@ -20,18 +20,15 @@ I'm an engineering student interested in robotics, automation, embedded systems,
 
 ## 🤖 Interests
 
-- Robotics and automation
+- Robotics and Electronics
 - Mechanical design and CAD
-- Embedded systems and electronics
 - Artificial intelligence
-- Control systems
 - Software development
 
 ## 📚 Currently Learning
 
 - Robotics and control engineering
 - ROS / ROS 2
-- Embedded systems
 - Artificial intelligence and machine learning
 - Mechanical design and prototyping
 
